@@ -1,0 +1,1 @@
+import{d as e,r as s,o as n,c as r,a as o}from"./index-mxFopnEF.js";const a=o("iframe",{src:"http://devk8s.lishicloud.com:31461/iserver/services/3D-LongFengMinZuCunKongJian/rest/realspace/scenes/%E9%BE%99%E5%B3%B0%E6%B0%91%E6%97%8F%E6%9D%91.openrealspace",frameborder:"0"},null,-1),c=[a],d=e({__name:"index",setup(t){return s(0),(i,l)=>(n(),r("div",null,c))}});export{d as default};
